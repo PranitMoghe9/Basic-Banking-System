@@ -1,4 +1,4 @@
-<!-- http://localhost/BASICBANKINGSYSTEM-MAIN/index.php -->
+
 <?php
 
 	$servername = "localhost";
